@@ -9,3 +9,4 @@ You can lock the windows key for the gaming.
 Also there is video that i introduce the program.
 Good luck.
  
+Note:Just download the zip and extract the files then click the scrollock_keyboard.exe
