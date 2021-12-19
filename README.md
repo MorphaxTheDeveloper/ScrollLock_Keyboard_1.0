@@ -2,6 +2,10 @@
 
 Control your keyboard led light working with the scrollock button via software
 
+![banner](https://user-images.githubusercontent.com/61086421/146681044-cc2a8399-2bc9-415c-95d6-8b17ac5693a0.jpg)
+
+![Adsız](https://user-images.githubusercontent.com/61086421/146681053-778a3d1b-1ea3-400e-a0fb-f030856ba204.png)
+
 This program created by Morphax.
 
 This program can work with keyboards that work lights with the scrollock key
